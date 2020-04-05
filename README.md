@@ -1,6 +1,8 @@
 # Curso Node.js para Iniciantes By #NodeBR!
 
-![Markdown](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/0ldC1OcqS6ueFZM7tMfq)
+<p align="center">
+  <img width="460" height="300" src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/0ldC1OcqS6ueFZM7tMfq">
+</p>
 
 Arquivos do [Curso Node.js para Iniciantes By #NodeBR!](https://imersaonodejs.cursos.erickwendel.com.br/p/node-js-para-iniciantes-nodebr) do [Erick Wendel](https://erickwendel.com.br).
 
